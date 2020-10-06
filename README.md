@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Eragoneq/eragoneq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Michał Jóźwik also known as Eragoneq or Eragon_Skill
 
-Here are some ideas to get you started:
+#### Currently:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Studying at **TU Delft**  <!-- insert logo  -->
+* Bachelor Computer Science and Engineering
+
+<!-- insert lang icons  -->
+#### My knowledge:
+* Python 3
+* Java
+* C++
+* Javascript
+* x86 Assembly
+
+#### Want to learn in a near future:
+* Rust
+* Julia
+* Lisp (Clojure)
+
+#### Current TODO-list:
+- [ ] Improve this README.md
+- [ ] Upload my projects and sort out repositories
+- [ ] Contribute to open-source projects
