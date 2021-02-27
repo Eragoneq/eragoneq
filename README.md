@@ -17,6 +17,7 @@
 
 #### Want to learn in a near future:
 * Rust
+* Haskell (started)
 * Julia
 * Lisp (Clojure)
 
