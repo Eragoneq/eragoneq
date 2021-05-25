@@ -9,14 +9,14 @@
 
 <!-- insert lang icons  -->
 #### My knowledge:
-* Python 3
 * Java
-* C++
+* Python 3
 * Javascript
 * x86 Assembly
+* C++
 
 #### Want to learn in a near future:
-* Rust
+* Rust (started)
 * Haskell (started)
 * Julia
 * Lisp (Clojure)
