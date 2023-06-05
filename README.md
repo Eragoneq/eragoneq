@@ -8,18 +8,24 @@
 * Bachelor Computer Science and Engineering
 
 <!-- insert lang icons  -->
-#### My knowledge:
+#### Programming languages I know:
 * Java
 * Python 3
-* Javascript
-* x86 Assembly
-* C++
+* Javascript/Typescript
+* Haskell
+* Agda
+* C/C++
+* SQL
+* Bash
+
+<!-- #### Technologies
+*  -->
 
 #### Want to learn in a near future:
 * Rust (started)
-* Haskell (started)
 * Julia
-* Lisp (Clojure)
+* Zig
+* Dart
 
 #### Current TODO-list:
 - [ ] Improve this README.md
