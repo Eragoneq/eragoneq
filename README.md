@@ -5,7 +5,7 @@
 #### Currently:
 
 * Studying at **TU Delft**  <!-- insert logo  -->
-* Bachelor Computer Science and Engineering
+* Master of Computer Science (Cybersecurity)
 
 <!-- insert lang icons  -->
 #### Programming languages I know:
@@ -21,11 +21,11 @@
 <!-- #### Technologies
 *  -->
 
-#### Want to learn in a near future:
+#### Want to learn soon:
 * Rust (started)
-* Julia
 * Zig
-* Dart
+* OCaml
+* Julia
 
 #### Current TODO-list:
 - [ ] Improve this README.md
