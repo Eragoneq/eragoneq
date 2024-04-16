@@ -9,8 +9,9 @@
 
 <!-- insert lang icons  -->
 #### Programming languages I know:
-* Java
-* Python 3
+* **Java**
+* **Kotlin**
+* **Python 3**
 * Javascript/Typescript
 * Haskell
 * Agda
@@ -18,8 +19,7 @@
 * SQL
 * Bash
 
-<!-- #### Technologies
-*  -->
+<!-- #### Technologies -->
 
 #### Want to learn soon:
 * Rust (started)
