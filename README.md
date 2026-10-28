@@ -1,24 +1,11 @@
-# Hi there 👋
+### Hi there 👋
 
-### About Me
+I'm Michał, a software engineer and cybersecurity specialist from Poland.
 
-Finished my Computer Science (Cybersecurity) Master's degree at **TU Delft** in 2025.
+Finished my CS Master's degree at **TU Delft** in 2025 with specialization in cybersecurity.
 
-Studied at **ETH Zurich** during the fall semester of 2022 as part of the exchange program.
+I work with the following languages:
 
-### Programming languages I worked with:
-* **Java**
-* **Kotlin**
-* **Python 3**
-* Javascript/Typescript
-* Haskell
-* Agda
-* C
-* C++
-* SQL
-* Bash
+**Java** | **Kotlin** | **Python 3** | TypeScript | Rust | C | Haskell
 
-### Want to learn soon:
-* Rust (started)
-* Zig
-* OCaml
+Head over to my site for more information and other contact information: <http://blog.eragoneq.fyi>
